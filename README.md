@@ -9,28 +9,28 @@
 - Opción de registro para administradores, docentes y estudiantes/empleados.
 - Gestión de roles y permisos.
 
-### Registro de Asistencia:
+### - Registro de Asistencia:
 - Opción para marcar asistencia de forma manual. 
 - Posibilidad de registrar ausencias y tardanzas.
 
-### Visualización de Asistencia:
+### - Visualización de Asistencia:
 - Posibilidad de filtrar datos por persona y hora.
 
-### Notificaciones:
+### - Notificaciones:
 - Envío de notificaciones automáticas como reactificacion de registro exitoso via SMS.
 
-### Aplicación móvil.
-### Interfaz amigable y responsiva.
+### - Aplicación móvil.
+### - Interfaz amigable y responsiva.
 
-### Base de Datos:
+### - Base de Datos:
 - Almacenamiento seguro de datos de usuarios y registros de asistencia.
 
 
-### Seguridad:
+### - Seguridad:
 - Autenticación y autorización de usuarios.
 - Cifrado de datos sensibles.
 
-### Escalabilidad:
+### - Escalabilidad:
 - Capacidad para gestionar un número creciente de usuarios y datos.
 - Diseño modular para futuras actualizaciones.
 
