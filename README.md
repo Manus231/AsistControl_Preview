@@ -17,7 +17,7 @@
 - Posibilidad de filtrar datos por persona y hora.
 
 ### Notificaciones:
-- Envío de notificaciones automáticas como reactificacion de registro exitoso.
+- Envío de notificaciones automáticas como reactificacion de registro exitoso via SMS.
 
 ### Aplicación móvil.
 ### Interfaz amigable y responsiva.
